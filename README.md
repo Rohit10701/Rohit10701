@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [messenger-app](https://github.com/Rohit10701/messenger-app)
+- 🔭 I’m currently working on [quick-chat](https://github.com/Rohit10701/quick-chat)
 
 - 🌱 I’m currently learning **React Native, WebGL**
 
