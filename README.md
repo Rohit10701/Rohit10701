@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [quick-chat](https://github.com/Rohit10701/quick-chat)
-
-- 🌱 I’m currently learning **React Native, WebGL**
+- 🔭 I’m currently working on [tac-form](https://github.com/Rohit10701/tac-form)
 
 - 📝 I regularly write articles on [https://medium.com/@Rk10701](https://medium.com/@Rk10701)
 
