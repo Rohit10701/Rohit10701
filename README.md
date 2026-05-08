@@ -10,7 +10,7 @@
 ### 🛠️ What I'm Up To
 
 - 🔭 **Currently Building:** 
-  - **TradeDocs:** An automated documentation platform replacing manual spreadsheets for global exporters.
+  - **Knots:** An automated documentation platform replacing manual spreadsheets for global exporters.
 - ⚡ **Recently Architected:** **MockQL**, a GraphQL interceptor and mocking tool.
 - 🧠 **Problem Solving:** Deeply engaged in Competitive Programming with **1,100+ problems solved** on LeetCode and active participation in Codeforces.
 - 💬 **Ask me about:** Next.js, Backend, GenAI, TypeScript, and system architecture.
