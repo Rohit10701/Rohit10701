@@ -24,7 +24,7 @@
 ### 📫 Let's Connect
 
 - **Email:** [rohitkumar10701@gmail.com](mailto:rohitkumar10701@gmail.com)
-- **Experience:** 📄 [View My Resume](https://drive.google.com/file/d/1t5MBM-EesR7k6PPPhBGZl1wb5SQgW4VD/view?usp=sharing)
+- **Experience:** 📄 [View My Resume](https://drive.google.com/file/d/1qkGJIvkGy1RZzgVLFWSI7HIUkvzdUOT-/view?usp=sharing)
 
 <p align="center">
   <i>Building "unsexy" but highly effective utilities.</i>
