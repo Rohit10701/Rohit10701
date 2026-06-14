@@ -21,7 +21,7 @@
 
 [![Project Video](https://img.youtube.com/vi/Jl8dUHrggV4/maxresdefault.jpg)](https://youtu.be/Jl8dUHrggV4?si=fj6_h0Dp8yI5x8AI)
 
-### 📫 Let's Connect
+### 📫 Let's Connect At
 
 - **Email:** [rohitkumar10701@gmail.com](mailto:rohitkumar10701@gmail.com)
 - **Experience:** 📄 [View My Resume](https://drive.google.com/file/d/1qkGJIvkGy1RZzgVLFWSI7HIUkvzdUOT-/view?usp=sharing)
